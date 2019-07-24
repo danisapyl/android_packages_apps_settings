@@ -10087,4 +10087,10 @@
 
     <!-- Title for Connected device shortcut [CHAR LIMIT=30] -->
     <string name="devices_title">Devices</string>
+     
+     <!-- Title for PAC Version [CHAR LIMIT=30] -->
+    <string name="pac_version">PAC Version</string>
+     
+     <!-- Title for PAC API Level [CHAR LIMIT=30] -->
+    <string name="pac_api_level">PAC API Level</string>
 </resources>
